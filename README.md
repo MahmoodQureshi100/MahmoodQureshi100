@@ -1,6 +1,8 @@
 ### Hi there 👋
+
 Bio:
-    Name: "Gulam Mahmood Qureshi"
+   
+   Name: "Gulam Mahmood Qureshi"
     
     Education: "Computer Science Undergraduate Student"
     
