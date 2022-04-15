@@ -3,10 +3,8 @@
 Bio:
    
    Name: "Gulam Mahmood Qureshi"
-    
-    Education: "Computer Science Undergraduate Student"
-    
-    Location: "Hyderabad, Telangana, India"
+   Education: "Computer Science Undergraduate Student"
+   Location: "Hyderabad, Telangana, India"
     
 	
     
